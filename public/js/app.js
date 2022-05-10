@@ -1,4 +1,4 @@
-console.log('JS文件加载了');
+
 // fetch('https://puzzle.mead.io/puzzle')
 
 
